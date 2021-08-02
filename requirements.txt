@@ -1,0 +1,4 @@
+#Flask is micro frame-work to build your python to be a website
+Flask==1.1.1
+#Werkzeug is a collection of libraries that can be used to create a WSGI (Web Server Gateway Interface) compatible web application in Python.
+werkzeug==0.16.1
